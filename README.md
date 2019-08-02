@@ -2,9 +2,28 @@
   <img alt="RGB Place" src="/assets/image/RGB_place.png" width="75%">
 </div>
 
-## Link
+## command
 
-<a href='https://about.rgbplace.com' target='_blank'>https://about.rgbplace.com</a>
+### server exec
+```
+hugo server
+```
+
+### generate public
+```
+hugo
+```
+
+### development mode watch
+```
+npm run watch
+```
+
+### promotion build
+```
+npm run build
+```
+
 
 ## Reference
 
